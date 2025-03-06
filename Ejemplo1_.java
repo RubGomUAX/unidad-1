@@ -1,5 +1,4 @@
 public static void main(String[] args) {
-
     byte mybyte = 1;//8 bits 1 byte -128 127
     short myshort = 1;// 16bits 2 bytes -32768 32767
     int myint = 1; //32 bits 4 bytes
@@ -63,5 +62,7 @@ public static void main(String[] args) {
     int [] numeros = {1,2,3,4};
     Persona mypersona = new Persona("Aday", 45);
 }
+
+private static String[] args;
 
 
